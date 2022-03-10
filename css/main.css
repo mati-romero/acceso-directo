@@ -1,0 +1,85 @@
+/*
+Rojo #EE6A59
+Negro #3A3F58
+Naranja #F9AC67
+Blanco #ECE6CD
+Gris #F5F5F5
+*/
+
+/*General*/
+
+.align-content-between {
+	align-content: space-between;
+}
+
+.link-box {
+	position: relative;
+}
+
+.text-box {
+	position: absolute;
+	top: 50%;
+	left: 0;
+	transform: translate(0, -50%);
+	color: #ECE6CD;
+}
+
+.bg-gris {
+	background: #F5F5F5;
+}
+
+h1,h2 {
+	font-family: 'League Gothic', sans-serif;
+}
+
+p {
+	font-family: 'Inconsolata', monospace;
+	font-size: 20px;
+}
+
+/*Banner*/
+
+.banner-img {
+	position: relative;
+}
+
+.banner-text {
+	position: absolute;
+	top: 0;
+	left: 0;
+	max-width: 700px;
+	color: #ECE6CD;
+	background: rgba(58,63,88,0.7);
+}
+
+.link-btn {
+	color: #ECE6CD;
+	border: 1px solid #ECE6CD;
+	padding: 5px 10px;
+}
+
+.link-btn:hover	{
+	text-decoration: none;
+	background: #F9AC67;
+	color: #ECE6CD;
+}
+
+.titulo-sm {
+	color: #ECE6CD;
+	background: #3A3F58;
+}
+
+.link-btn-negro {
+	color: #3A3F58;
+	border: 1px solid #3A3F58;
+	padding: 5px 10px;
+}
+
+.link-btn-negro:hover	{
+	text-decoration: none;
+	background: #F9AC67;
+	color: #3A3F58;
+}
+
+/*Main*/
+
