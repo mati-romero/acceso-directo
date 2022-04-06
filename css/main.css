@@ -28,6 +28,18 @@ Gris #F5F5F5
 	background: #F5F5F5;
 }
 
+.bg-naranja {
+	background: #F9AC67;
+}
+
+.bg-rojo {
+	background: #EE6A59;
+}
+
+.color-blanco {
+	color: #ECE6CD;
+}
+
 h1,h2 {
 	font-family: 'League Gothic', sans-serif;
 }
